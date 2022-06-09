@@ -1,2 +1,2 @@
-# SQL-SELECT-queries-HW_1-
+# Portfolio
 Simple sql queries
