@@ -15,9 +15,9 @@
 
 **Тестовая документация**
 
-* Чек-листы;(https://goo-gl.me/WwmN5)
+* [Чек-листы;](https://goo-gl.me/WwmN5)
 * Тест-кейсы; 
-* Баг-репорты;(https://goo-gl.me/EvyMS)
+* [Баг-репорты;](https://goo-gl.me/EvyMS)
 
 **Web – тестирование**
 
@@ -31,7 +31,7 @@
 * Функциональное тестирование
 * Тестирование GUI
 
-**SQL** (https://goo-gl.me/IJxEw)
+[**SQL**](https://goo-gl.me/IJxEw)
 
 * CREATE, SELECT, UPDATE, DELETE, INSERT, JOIN
 * Агрегатные функции: COUNT, SUM, AVG, MIN, MAX;
