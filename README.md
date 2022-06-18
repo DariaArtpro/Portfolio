@@ -31,9 +31,9 @@
 * Функциональное тестирование
 * Тестирование GUI
 
-[**SQL**](https://goo-gl.me/IJxEw)
+**SQL**
 
-* CREATE, SELECT, UPDATE, DELETE, INSERT, JOIN
+* CREATE, [SELECT](https://goo-gl.me/IJxEw), UPDATE, DELETE, INSERT, JOIN
 * Агрегатные функции: COUNT, SUM, AVG, MIN, MAX;
 
 **Клиент-серверная архитектура**
